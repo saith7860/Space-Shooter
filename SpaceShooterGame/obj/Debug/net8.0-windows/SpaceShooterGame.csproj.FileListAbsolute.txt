@@ -1,0 +1,16 @@
+E:\SpaceShooterGame\SpaceShooterGame\bin\Debug\net8.0-windows\SpaceShooterGame.exe
+E:\SpaceShooterGame\SpaceShooterGame\bin\Debug\net8.0-windows\SpaceShooterGame.deps.json
+E:\SpaceShooterGame\SpaceShooterGame\bin\Debug\net8.0-windows\SpaceShooterGame.runtimeconfig.json
+E:\SpaceShooterGame\SpaceShooterGame\bin\Debug\net8.0-windows\SpaceShooterGame.dll
+E:\SpaceShooterGame\SpaceShooterGame\bin\Debug\net8.0-windows\SpaceShooterGame.pdb
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.SpaceShooter.resources
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.csproj.GenerateResource.cache
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.AssemblyInfoInputs.cache
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.AssemblyInfo.cs
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.csproj.CoreCompileInputs.cache
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.dll
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\refint\SpaceShooterGame.dll
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.pdb
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.genruntimeconfig.cache
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\ref\SpaceShooterGame.dll
