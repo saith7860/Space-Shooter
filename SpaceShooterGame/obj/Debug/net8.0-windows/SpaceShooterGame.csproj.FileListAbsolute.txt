@@ -14,3 +14,5 @@ E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\refint\SpaceShoote
 E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.pdb
 E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.genruntimeconfig.cache
 E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\ref\SpaceShooterGame.dll
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.Properties.Resources.resources
+E:\SpaceShooterGame\SpaceShooterGame\obj\Debug\net8.0-windows\SpaceShooterGame.sourcelink.json
